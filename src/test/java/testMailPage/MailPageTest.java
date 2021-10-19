@@ -1,10 +1,7 @@
 package testMailPage;
 
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
-import pages.login_page.LoginPage;
 import testBase.BaseTest;
-import testLoginPage.LoginPageTest;
 
 import static constants.Constants.UrlConstants.LINK;
 

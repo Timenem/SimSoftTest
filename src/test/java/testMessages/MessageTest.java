@@ -12,7 +12,7 @@ public class MessageTest extends BaseTest {
         loginPage.enterLogin();
         loginPage.enterPassword();
         mailPage.checkMessages();
-       // mailPage.checkMessages();
+        mailPage.writeMessage();
     }
 
 }
