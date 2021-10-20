@@ -11,7 +11,9 @@ public class MailPageTest extends BaseTest {
         basePage.openPage(LINK);
         loginPage.enterLogin();
         loginPage.enterPassword();
-        mailPage.writeMessage();
+        mailPage.checkMessages();
+        mailPage.checkQuantityMessages();
+        //mailPage.writeMessage();
     }
 
 }

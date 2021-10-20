@@ -1,0 +1,4 @@
+testBase/BaseTest.class
+testMailPage/MailPageTest.class
+testMessages/MessageTest.class
+testLoginPage/LoginPageTest.class

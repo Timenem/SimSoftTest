@@ -10,6 +10,7 @@ public class Constants {
     public static class  TimeOutConstants{
         public static  final  int IMPLICITY_WAIT =5;
         public static final int EXPECTED_WAIT = 10 ;
+        public static final int DELAY = 2;
     }
 
     public static class UrlConstants{
