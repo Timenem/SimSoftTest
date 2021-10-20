@@ -5,6 +5,14 @@ public class Constants {
         public static  final String FIRE_FOX  = "firefox";
         public static  final  String FIRE_FOX_PROPERTY = "webdriver.gecko.driver";
         public static  final String FIRE_FOX_PATH = "/home/hind/Desktop/java_proj/Resources/geckodriver";
+        
+        /*
+        public static  final String CHROME  = "chromedriver";
+        public static  final  String CHROME_PROPERTY = "webdriver.chromedriver";
+        public static  final String CHROME_FOX_PATH = "/home/hind/Desktop/java_proj/Resources/chromedriver"
+        */
+        
+        
     }
 
     public static class  TimeOutConstants{
