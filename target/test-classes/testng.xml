@@ -1,7 +1,0 @@
-<suite name = "all test">
-        <test name ="/target">
-        <classes>
-            <class name = "testMessages.MessageTest"/>
-        </classes>
-    </test>
-</suite>
