@@ -12,7 +12,6 @@ import static USERDATA.UserFile.userData.*;
 import static pages.login_page.Locators.locatorsLoginPage.*;
 
 @Test
-//@Description("This class check authorization page step")
 public class LoginPage extends BasePage {
     public LoginPage(WebDriver driver) {
         super(driver);

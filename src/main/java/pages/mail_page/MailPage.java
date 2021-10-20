@@ -64,7 +64,7 @@ public class MailPage extends BasePage {
         driver.findElement(writeTo).sendKeys(RECIPIENT_LOGIN);
         TimeUnit.SECONDS.sleep(DELAY);
 
-        driver.findElement(writeTheme).sendKeys("Simbirsoft Тестовое задание");
+        driver.findElement(writeTheme).sendKeys("Simbirsoft Тестовое задание. Уталиев");
         TimeUnit.SECONDS.sleep(DELAY);
 
         driver.findElement(writeMsg).sendKeys("Количество сообщений "+ one);
